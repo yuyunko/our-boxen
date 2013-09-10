@@ -45,7 +45,7 @@ class people::yuyunko {
   # ~/src/dotfilesにGitHub上のtaka84u9/dotfilesリポジトリを
   # git-cloneする。そのとき~/srcディレクトリがなければいけない。
   #repository { $dotfiles:
-  #  source  => "taka84u9/dotfiles",
+  #  source  => "yuyunko/dotfiles",
   #  require => File[$src]
   #}
   # git-cloneしたらインストールする
